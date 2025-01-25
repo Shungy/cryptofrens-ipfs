@@ -1,0 +1,23 @@
+{
+	"name": "Fren 33",
+	"image": "ipfs://bafkreid47tygm7473f3u4jkihgceq4c75ndavn6zhqo466sstdkowyj2ni",
+	"external_url": "https://cryptofrens.xyz/fren/33",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Prince"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Ninja Hair"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Fren 199",
+	"image": "ipfs://bafkreihigrybuwozbfbgzzfp326rv5qcdroc2f22psssp7hwpisanm3pie",
+	"external_url": "https://cryptofrens.xyz/fren/199",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Cultist"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Cultist Hair"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Kunai"
+		}
+	]
+}

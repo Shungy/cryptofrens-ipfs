@@ -1,0 +1,27 @@
+{
+	"name": "Fren 258",
+	"image": "ipfs://bafkreie2w3l53bxz4ajvnohqfud7po25ymfeywbf626khkis4tumqo3sxy",
+	"external_url": "https://cryptofrens.xyz/fren/258",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Scooter Helmet"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Highfive"
+		}
+	]
+}

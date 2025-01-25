@@ -1,0 +1,27 @@
+{
+	"name": "Fren 520",
+	"image": "ipfs://bafkreigizpoo6tlxhatlllroj2sf7s26avyld765nfttfofxf5kksg5ham",
+	"external_url": "https://cryptofrens.xyz/fren/520",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Dark Blue Business Suit"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Bucktooth"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Afro"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Big Nose"
+		}
+	]
+}

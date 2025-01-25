@@ -1,0 +1,23 @@
+{
+	"name": "Fren 312",
+	"image": "ipfs://bafkreibhf6hne2mgvvhws6spatakububvtwphz3lktapqrogabaer5mw74",
+	"external_url": "https://cryptofrens.xyz/fren/312",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Orange Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Shocked"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Stubble"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Prayer Beads"
+		}
+	]
+}

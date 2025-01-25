@@ -1,0 +1,23 @@
+{
+	"name": "Fren 150",
+	"image": "ipfs://bafkreihtqo4p2u7trxf5mrqgkot7gibdrsd2tjpfxkkpkfhpkldatoxyj4",
+	"external_url": "https://cryptofrens.xyz/fren/150",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Wizard"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Wizard Wand"
+		}
+	]
+}

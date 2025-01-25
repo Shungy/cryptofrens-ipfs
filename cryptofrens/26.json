@@ -1,0 +1,23 @@
+{
+	"name": "Fren 26",
+	"image": "ipfs://bafkreidcj5xnojiplakj543ghf4tkpruonl3nifeajv6mu4ncu7c3lx5uu",
+	"external_url": "https://cryptofrens.xyz/fren/26",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Pirate Kid"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Opposite Oblique"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Straw Hat With Hair"
+		}
+	]
+}

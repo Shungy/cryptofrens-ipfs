@@ -1,0 +1,19 @@
+{
+	"name": "Fren 406",
+	"image": "ipfs://bafkreibvktyyn7pl3e44y2xj56634bfmzrnpz6x6f5c76455hblc7sezcu",
+	"external_url": "https://cryptofrens.xyz/fren/406",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Popo"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy"
+		}
+	]
+}

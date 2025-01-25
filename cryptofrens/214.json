@@ -1,0 +1,23 @@
+{
+	"name": "Fren 214",
+	"image": "ipfs://bafkreiewzccyvp2ckdraorzjemjafqpapjrpsnzrfa637hacnq3poucc3e",
+	"external_url": "https://cryptofrens.xyz/fren/214",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Mounty"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Vampire Teeth"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Italian Hair"
+		}
+	]
+}

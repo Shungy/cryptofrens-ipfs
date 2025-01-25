@@ -1,0 +1,23 @@
+{
+	"name": "Fren 57",
+	"image": "ipfs://bafkreigixckqn4e6hi4xi3vu4wdbrfmlm4yxp3fnbwgydvks5axdpm3voy",
+	"external_url": "https://cryptofrens.xyz/fren/57",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Tuxedo"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Fedora"
+		}
+	]
+}

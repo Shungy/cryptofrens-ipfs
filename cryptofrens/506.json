@@ -1,0 +1,27 @@
+{
+	"name": "Fren 506",
+	"image": "ipfs://bafkreihkgjgirtchq3bbtliyx3o2s6zavuihqwehj66cfltib5w7x42n3e",
+	"external_url": "https://cryptofrens.xyz/fren/506",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Pope"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes With Eyelashes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Surgeons Mask"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Viking Helmet"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Cross"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Fren 510",
+	"image": "ipfs://bafkreig5zljmrloyv4nsaexfhw7snod6mz2egtzjydkd3r2l35kibtisvu",
+	"external_url": "https://cryptofrens.xyz/fren/510",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Large Pupils"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Extremely Happy"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Rolling Pin"
+		}
+	]
+}

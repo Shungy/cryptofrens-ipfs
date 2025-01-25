@@ -1,0 +1,23 @@
+{
+	"name": "Fren 480",
+	"image": "ipfs://bafkreicxnnqh2wihonkns3mkpmtbsrurpzcbwppftlgko7fpvvcpg6bgue",
+	"external_url": "https://cryptofrens.xyz/fren/480",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "African"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sinister Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Drool"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Large Needle"
+		}
+	]
+}

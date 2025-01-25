@@ -1,0 +1,27 @@
+{
+	"name": "Fren 351",
+	"image": "ipfs://bafkreihur4g23j4ex2ejtal74bymexjeep4i26wkvdd52424uc5dostpvu",
+	"external_url": "https://cryptofrens.xyz/fren/351",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Italian Hair"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Knife"
+		}
+	]
+}

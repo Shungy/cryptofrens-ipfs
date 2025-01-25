@@ -1,0 +1,27 @@
+{
+	"name": "Fren 596",
+	"image": "ipfs://bafkreibs6yw53nvlr4jkdeu3fzxfodvgdiy57mz5yegjrxvbly76vfnvja",
+	"external_url": "https://cryptofrens.xyz/fren/596",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Pirate"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Large Pupils"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Camo Helmet With Message"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Hook"
+		}
+	]
+}

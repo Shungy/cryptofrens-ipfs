@@ -1,0 +1,27 @@
+{
+	"name": "Fren 620",
+	"image": "ipfs://bafkreicy4k5g6meu4tyo64cwcnuuqeufnrt4rrsrxtx2t3acnelfbonlra",
+	"external_url": "https://cryptofrens.xyz/fren/620",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Ruffian"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes With Eyelashes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Popo Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Cane"
+		}
+	]
+}

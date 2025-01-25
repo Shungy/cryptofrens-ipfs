@@ -1,0 +1,27 @@
+{
+	"name": "Fren 98",
+	"image": "ipfs://bafkreier4vbv4h3um4n6oypag7drdtqr36kgnhtz7olxtckwivprsxom3i",
+	"external_url": "https://cryptofrens.xyz/fren/98",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Large Pupils"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Extremely Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Saint Halo"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Handwave"
+		}
+	]
+}

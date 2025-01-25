@@ -1,0 +1,23 @@
+{
+	"name": "Fren 159",
+	"image": "ipfs://bafkreieejgz4hc7chy3qabfiil5ciryjotmarcjgba6zvlr5apadzwcxrm",
+	"external_url": "https://cryptofrens.xyz/fren/159",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Mad"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Gauntlet"
+		}
+	]
+}

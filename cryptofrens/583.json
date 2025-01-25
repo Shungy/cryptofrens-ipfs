@@ -1,0 +1,27 @@
+{
+	"name": "Fren 583",
+	"image": "ipfs://bafkreify2rt2p3veujlrgw4p22xxdk6gkuh57l5mmtjpra347v4zjupbmq",
+	"external_url": "https://cryptofrens.xyz/fren/583",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Safety Vest"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Large Pupils"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Chef’s Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Spaghetti"
+		}
+	]
+}

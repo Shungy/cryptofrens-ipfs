@@ -1,0 +1,23 @@
+{
+	"name": "Fren 541",
+	"image": "ipfs://bafkreifqrqxnrkxf3fk5xm2jiu7zsxsjuihc73zhwtwkjdhj4f3tlhkznm",
+	"external_url": "https://cryptofrens.xyz/fren/541",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Yellow Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Afro"
+		}
+	]
+}

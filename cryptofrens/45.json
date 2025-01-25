@@ -1,0 +1,27 @@
+{
+	"name": "Fren 45",
+	"image": "ipfs://bafkreiaqmgddrukckrepuvubcm3mdjwemxli7zpzwq57hf6qj2dcwfdjam",
+	"external_url": "https://cryptofrens.xyz/fren/45",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Santa"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Knights Helmet"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Bell"
+		}
+	]
+}

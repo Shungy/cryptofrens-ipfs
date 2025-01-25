@@ -1,0 +1,27 @@
+{
+	"name": "Fren 499",
+	"image": "ipfs://bafkreiculx2ulq5qcv4z6zmhyz6jl5idajcms2umdf5pqla2lcynwvx63q",
+	"external_url": "https://cryptofrens.xyz/fren/499",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Italian Hair"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Thumbsup"
+		}
+	]
+}

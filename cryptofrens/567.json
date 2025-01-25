@@ -1,0 +1,19 @@
+{
+	"name": "Fren 567",
+	"image": "ipfs://bafkreigek3n6xofwkjvdluswwujbx4ca3h2nrfhpoxh2kvpveymybqm2ty",
+	"external_url": "https://cryptofrens.xyz/fren/567",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Gym Rat"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Breathing Mask"
+		}
+	]
+}

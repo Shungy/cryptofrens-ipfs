@@ -1,0 +1,27 @@
+{
+	"name": "Fren 535",
+	"image": "ipfs://bafkreifjs3sowgtg6nz77snalvrfqwwsteqvtgzywtmzcpedhwd57wjt7m",
+	"external_url": "https://cryptofrens.xyz/fren/535",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Indian"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy Bucktooth"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Indian Headdress"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Indian Dance"
+		}
+	]
+}

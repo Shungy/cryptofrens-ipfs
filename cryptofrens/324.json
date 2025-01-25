@@ -1,0 +1,23 @@
+{
+	"name": "Fren 324",
+	"image": "ipfs://bafkreiay2nbzqqswkoeeklw7x4wi336ixwo7mz3mp2jo6xqyxqldyuqsee",
+	"external_url": "https://cryptofrens.xyz/fren/324",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Orange Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Shocked"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Stubble"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Handwave"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Fren 274",
+	"image": "ipfs://bafkreih5gxhvo6zjowjs4bxeptwmxa27tjyuo5id5p25o7eqfp4x3sbs2i",
+	"external_url": "https://cryptofrens.xyz/fren/274",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Clown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Red Round Glasses"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Rainbow Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Horn"
+		}
+	]
+}

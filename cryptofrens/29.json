@@ -1,0 +1,23 @@
+{
+	"name": "Fren 29",
+	"image": "ipfs://bafkreigugqwx5y3vgss2mtc3za7lggekx33hw7kygcsvr5x55iuqof3rvu",
+	"external_url": "https://cryptofrens.xyz/fren/29",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Red Round Glasses"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Pope’s Hat"
+		}
+	]
+}

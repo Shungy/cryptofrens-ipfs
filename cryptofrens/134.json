@@ -1,0 +1,23 @@
+{
+	"name": "Fren 134",
+	"image": "ipfs://bafkreih6pdyplxt5sxtjghjk7gwpwgik57ukuvluaqtnvq7kdbhdrn7fda",
+	"external_url": "https://cryptofrens.xyz/fren/134",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Coated Gym Rat"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Sultan Headdress"
+		}
+	]
+}

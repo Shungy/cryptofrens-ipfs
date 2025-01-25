@@ -1,0 +1,23 @@
+{
+	"name": "Fren 610",
+	"image": "ipfs://bafkreiahstwgqzinostyq4puvboopazsd72ervefzc6me26lkvdt5vhylq",
+	"external_url": "https://cryptofrens.xyz/fren/610",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Chef"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sinister Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Chef’s Hat"
+		}
+	]
+}

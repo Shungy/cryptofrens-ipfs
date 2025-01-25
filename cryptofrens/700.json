@@ -1,0 +1,19 @@
+{
+	"name": "Fren 700",
+	"image": "ipfs://bafkreihcyoxsgkouqktevokegnoyqtfjatbc2zj7m6ywitdmwypydjqwsu",
+	"external_url": "https://cryptofrens.xyz/fren/700",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Pirate"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Orange Eye Band"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Drool"
+		}
+	]
+}

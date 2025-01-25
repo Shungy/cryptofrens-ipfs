@@ -1,0 +1,27 @@
+{
+	"name": "Fren 522",
+	"image": "ipfs://bafkreids3tqakhj45zxwa4uqwgt43pmme6fcpcn23mgwrtpy7w5d3yndre",
+	"external_url": "https://cryptofrens.xyz/fren/522",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Safety Vest"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sinister Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Very Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Seagull"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Cocktail"
+		}
+	]
+}

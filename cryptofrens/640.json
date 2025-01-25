@@ -1,0 +1,27 @@
+{
+	"name": "Fren 640",
+	"image": "ipfs://bafkreia2alfvlhs2p2cjqnmzwivlfjtvlfsidsgbpkq27ma4php6vasmy4",
+	"external_url": "https://cryptofrens.xyz/fren/640",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Sailor"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Detective Cap"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Army Salute"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"name": "Fren 733",
+	"image": "ipfs://bafkreif7qdntaugz2cek3i62osob5th5stxmt6voaxkipdi2xo5erbdw2u",
+	"external_url": "https://cryptofrens.xyz/fren/733",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Teary Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Very Happy With Tongue"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Pirate Hat"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Clown Nose"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Pitchfork"
+		}
+	]
+}

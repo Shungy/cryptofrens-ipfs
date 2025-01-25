@@ -1,0 +1,23 @@
+{
+	"name": "Fren 107",
+	"image": "ipfs://bafkreia2bcj4u7tozw23wwa7ekl6u4u3wiftystfn5as3en6tx73wzjoxq",
+	"external_url": "https://cryptofrens.xyz/fren/107",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Arab"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Arabic Headdress"
+		}
+	]
+}

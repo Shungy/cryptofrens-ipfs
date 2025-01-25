@@ -1,0 +1,23 @@
+{
+	"name": "Fren 60",
+	"image": "ipfs://bafkreibujejsmuwy3milqmfh747xwtkh725i4iwmvkkqwc4zr247cxlcam",
+	"external_url": "https://cryptofrens.xyz/fren/60",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Chef"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Chef’s Hat"
+		}
+	]
+}

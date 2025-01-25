@@ -1,0 +1,23 @@
+{
+	"name": "Fren 110",
+	"image": "ipfs://bafkreiayr3eebzpd4fbyhoz6xwwb24w7t2477svlbujezw4i65o3rqf76q",
+	"external_url": "https://cryptofrens.xyz/fren/110",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Arab"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sinister Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Afro"
+		}
+	]
+}

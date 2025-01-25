@@ -1,0 +1,23 @@
+{
+	"name": "Fren 294",
+	"image": "ipfs://bafkreiboiijsgvck5xpexuxpyyq2drhuuwfnyxylubchulc4nwtjrdonau",
+	"external_url": "https://cryptofrens.xyz/fren/294",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Uncle Sam"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Shocked"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Detective Cap"
+		}
+	]
+}

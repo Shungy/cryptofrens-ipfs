@@ -1,0 +1,23 @@
+{
+	"name": "Fren 129",
+	"image": "ipfs://bafkreidd4mh5gqiuuxd2pufogshiuf764gwdrtkhdptqrxk3m7yeqhypsa",
+	"external_url": "https://cryptofrens.xyz/fren/129",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Teary Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy Bucktooth"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Cigarette"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Fren 474",
+	"image": "ipfs://bafkreifagadyikqh2pf73c2hg52zp4dtaoi6gjfifctnaaunbtxfgnepmi",
+	"external_url": "https://cryptofrens.xyz/fren/474",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Large Pupils"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Parrot"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Teacup"
+		}
+	]
+}

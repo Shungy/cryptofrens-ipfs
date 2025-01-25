@@ -1,0 +1,23 @@
+{
+	"name": "Fren 501",
+	"image": "ipfs://bafkreibl57ced3ysmccpu3cgxmqtmuhv4grxxakyqjii2x7b7s2aihcc2q",
+	"external_url": "https://cryptofrens.xyz/fren/501",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Vested Gym Rat"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Round Fedora"
+		}
+	]
+}

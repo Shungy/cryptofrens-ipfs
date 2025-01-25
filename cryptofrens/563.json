@@ -1,0 +1,27 @@
+{
+	"name": "Fren 563",
+	"image": "ipfs://bafkreicvpwhz7fjfdzjfvq6sqniygmls23apqcaenjhy3yubf52lf6uewu",
+	"external_url": "https://cryptofrens.xyz/fren/563",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Comrade"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Bucktooth"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Ushanka"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Droopy Nose"
+		}
+	]
+}

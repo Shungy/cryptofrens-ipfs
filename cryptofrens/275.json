@@ -1,0 +1,23 @@
+{
+	"name": "Fren 275",
+	"image": "ipfs://bafkreibd4gkalstxh6hofmamml2jrapqafqbltvlogkl45heniaoopvoyq",
+	"external_url": "https://cryptofrens.xyz/fren/275",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Gown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Teary Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Prayer Beads"
+		}
+	]
+}

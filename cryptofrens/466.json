@@ -1,0 +1,27 @@
+{
+	"name": "Fren 466",
+	"image": "ipfs://bafkreidfscj3v4cqlcbtevujvy4lnbvr7epl4wkryx2zsipjbe5i3xurp4",
+	"external_url": "https://cryptofrens.xyz/fren/466",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Cop"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Stubble"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Seagull"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Pistol"
+		}
+	]
+}

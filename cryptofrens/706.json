@@ -1,0 +1,23 @@
+{
+	"name": "Fren 706",
+	"image": "ipfs://bafkreig4u6py2lr6ptknrpzk47jwyktckz63herrcp3tse6edd33t5hlpu",
+	"external_url": "https://cryptofrens.xyz/fren/706",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Santa"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "White Beard"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Santa Hat"
+		}
+	]
+}

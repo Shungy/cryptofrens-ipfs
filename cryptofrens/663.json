@@ -1,0 +1,27 @@
+{
+	"name": "Fren 663",
+	"image": "ipfs://bafkreidaow4bnzjegxbjkpielihthm5ih62g4uitk2id4xcrexgbmfjwly",
+	"external_url": "https://cryptofrens.xyz/fren/663",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Caesar"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Caesar’s Crown"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Highfive"
+		}
+	]
+}

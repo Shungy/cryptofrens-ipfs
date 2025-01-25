@@ -1,0 +1,23 @@
+{
+	"name": "Fren 297",
+	"image": "ipfs://bafkreibvjgotpv74xk76izqbxx7643ps6qbj3homh3oxdt4s52bg5qv6ly",
+	"external_url": "https://cryptofrens.xyz/fren/297",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Basketball Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Tongue Out"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Rat"
+		}
+	]
+}

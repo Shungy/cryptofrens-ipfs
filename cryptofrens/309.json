@@ -1,0 +1,23 @@
+{
+	"name": "Fren 309",
+	"image": "ipfs://bafkreigitls2ikzgajj772nazjp22ndp3su55dqidych2ytrnu24rgzpum",
+	"external_url": "https://cryptofrens.xyz/fren/309",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Sleeveless Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Wrench"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Fren 497",
+	"image": "ipfs://bafkreiaqxirxgzljm5agfbwumv2zcbtzhcprx3xtpnxbeju7mr3edpygxm",
+	"external_url": "https://cryptofrens.xyz/fren/497",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Popo"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Large Pupils"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Very Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Popo Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Baton"
+		}
+	]
+}

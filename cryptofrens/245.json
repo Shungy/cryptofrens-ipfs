@@ -1,0 +1,23 @@
+{
+	"name": "Fren 245",
+	"image": "ipfs://bafkreigrnbce2n574rd5wuxhpo3hqstfw7klc7ez4xstaci3fmgkpbuy34",
+	"external_url": "https://cryptofrens.xyz/fren/245",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Nerd Glasses"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Apple"
+		}
+	]
+}

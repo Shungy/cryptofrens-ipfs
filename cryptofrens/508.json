@@ -1,0 +1,27 @@
+{
+	"name": "Fren 508",
+	"image": "ipfs://bafkreibk2q3xbf4cafsrhtg3o6hchzbzpnqrrlybxnz2h5a6yi7rghqwwq",
+	"external_url": "https://cryptofrens.xyz/fren/508",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "African"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Tongue Out"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Punk Hair"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Rolling Pin"
+		}
+	]
+}

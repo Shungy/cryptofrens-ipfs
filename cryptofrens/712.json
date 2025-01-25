@@ -1,0 +1,27 @@
+{
+	"name": "Fren 712",
+	"image": "ipfs://bafkreidjqm7bbntx5p3xkx3byb2mdyzmvsdiuypuns5l53tufqnoii7jey",
+	"external_url": "https://cryptofrens.xyz/fren/712",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Bear"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Very Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Medusa Head"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Fist"
+		}
+	]
+}

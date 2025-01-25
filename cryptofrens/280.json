@@ -1,0 +1,23 @@
+{
+	"name": "Fren 280",
+	"image": "ipfs://bafkreiezyyl6wiqokbrmyggfr4k4mf4xbl3sb6v5lan2qzjuxfoua7ywla",
+	"external_url": "https://cryptofrens.xyz/fren/280",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Extremely Happy"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Wolverine"
+		}
+	]
+}

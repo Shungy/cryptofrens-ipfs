@@ -1,0 +1,23 @@
+{
+	"name": "Fren 612",
+	"image": "ipfs://bafkreiamp6u4t6vaupwlr5rthxe2mvajrdzd43wugrpchanfmiv7cs7lqe",
+	"external_url": "https://cryptofrens.xyz/fren/612",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Mad"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Ok Sign"
+		}
+	]
+}

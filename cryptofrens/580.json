@@ -1,0 +1,27 @@
+{
+	"name": "Fren 580",
+	"image": "ipfs://bafkreid5jitv4s6jtyebbtix4gduyebpsnhqviv7arva7lmxwyiyjbc6xa",
+	"external_url": "https://cryptofrens.xyz/fren/580",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Tongue Out"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Rainbow Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Cocktail"
+		}
+	]
+}

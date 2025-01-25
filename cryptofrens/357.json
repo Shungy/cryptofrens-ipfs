@@ -1,0 +1,31 @@
+{
+	"name": "Fren 357",
+	"image": "ipfs://bafkreia6p5qiu3y3v6n4oldr52n4he3ghznkr2wzowoaabutkfwhdgxcfq",
+	"external_url": "https://cryptofrens.xyz/fren/357",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Ninja"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Hair Bow"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Whiskers"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Kunai"
+		}
+	]
+}

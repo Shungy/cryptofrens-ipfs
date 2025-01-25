@@ -1,0 +1,23 @@
+{
+	"name": "Fren 469",
+	"image": "ipfs://bafkreigskwkemykyj6y4phcujwiwffmoejbmcmpkehqsx7lj3mmroyz3eu",
+	"external_url": "https://cryptofrens.xyz/fren/469",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Black Eye Band"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Pink Glove"
+		}
+	]
+}

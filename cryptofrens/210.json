@@ -1,0 +1,27 @@
+{
+	"name": "Fren 210",
+	"image": "ipfs://bafkreif22ctjiksh3lbnk55hkm274ek7enjon6yakgdtj3xuuskugoiws4",
+	"external_url": "https://cryptofrens.xyz/fren/210",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "XMR Cap"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Cigarette"
+		}
+	]
+}

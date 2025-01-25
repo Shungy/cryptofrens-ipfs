@@ -1,0 +1,27 @@
+{
+	"name": "Fren 3",
+	"image": "ipfs://bafkreicubt4q7npv3fuofjmvwvarg5fzf2pogiyc2c5fw6gr42ngtrg6ti",
+	"external_url": "https://cryptofrens.xyz/fren/3",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Tuxedo"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Fedora"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Whisky"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Fren 420",
+	"image": "ipfs://bafkreibsfksw6vyyegu5poyy4qcbs2axa4vg4yktuxjy5rk3tth4il2u6m",
+	"external_url": "https://cryptofrens.xyz/fren/420",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "African"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Legionary Helmet"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Shishkebab"
+		}
+	]
+}

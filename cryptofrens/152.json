@@ -1,0 +1,19 @@
+{
+	"name": "Fren 152",
+	"image": "ipfs://bafkreiboixzpm3lpxr2q4nwcqwdkwhanzgmvtlj5dahn7vtfqm2yu5uukm",
+	"external_url": "https://cryptofrens.xyz/fren/152",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Yellow Blanket"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		}
+	]
+}

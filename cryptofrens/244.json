@@ -1,0 +1,27 @@
+{
+	"name": "Fren 244",
+	"image": "ipfs://bafkreigyz5epgcw6qyry5vsrvtlcd22lyl3nezer7ttqa2bx4clsrak3vy",
+	"external_url": "https://cryptofrens.xyz/fren/244",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Sailor"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Large Pupils"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Knights Helmet"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Pinocchio"
+		}
+	]
+}

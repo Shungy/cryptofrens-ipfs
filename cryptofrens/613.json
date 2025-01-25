@@ -1,0 +1,23 @@
+{
+	"name": "Fren 613",
+	"image": "ipfs://bafkreigskjg33ovocqa52pctz3iurumcm4e5m7e2syiajd4od4ffnznxqe",
+	"external_url": "https://cryptofrens.xyz/fren/613",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Knight Armor"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Sombrero"
+		}
+	]
+}

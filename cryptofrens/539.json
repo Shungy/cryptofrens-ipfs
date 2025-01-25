@@ -1,0 +1,23 @@
+{
+	"name": "Fren 539",
+	"image": "ipfs://bafkreihexonmdm2tz735gz6lncehhap7bivriks3xivarzebwhrfwrizby",
+	"external_url": "https://cryptofrens.xyz/fren/539",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Uncle Sam"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Eth Cap"
+		}
+	]
+}

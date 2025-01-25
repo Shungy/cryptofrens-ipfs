@@ -1,0 +1,23 @@
+{
+	"name": "Fren 605",
+	"image": "ipfs://bafkreiakcz5rbm672lb555mdhkxucnaj54qmgizdgqnp5c5qyfxt7mqry4",
+	"external_url": "https://cryptofrens.xyz/fren/605",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Drunkard Sailor"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Oblique"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Dreadlocks"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Fren 125",
+	"image": "ipfs://bafkreieey4dxpbs3iloe6v5yoiuiqgibeyjm6frfghbbgm5pbalida4ofe",
+	"external_url": "https://cryptofrens.xyz/fren/125",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Vested Gym Rat"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Surgeons Mask"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Seagull"
+		}
+	]
+}

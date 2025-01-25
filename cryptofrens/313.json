@@ -1,0 +1,23 @@
+{
+	"name": "Fren 313",
+	"image": "ipfs://bafkreic366jgydwjvblnkf3xnljiznrg52odcnnkubyb7jg3jcb3tbuwlm",
+	"external_url": "https://cryptofrens.xyz/fren/313",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Arab"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Vampire Teeth"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Rice Hat"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Fren 512",
+	"image": "ipfs://bafkreieipzc5qgm4auwgzb4ke5vhnxipo6eqkbk2li67dzsvkovthqiij4",
+	"external_url": "https://cryptofrens.xyz/fren/512",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Tuxedo"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Rice Hat"
+		}
+	]
+}

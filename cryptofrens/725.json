@@ -1,0 +1,27 @@
+{
+	"name": "Fren 725",
+	"image": "ipfs://bafkreif2ldcopxkputmxswarz2iuttmjfxnjm6drdoqrdfbdtashsphbam",
+	"external_url": "https://cryptofrens.xyz/fren/725",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Legionary"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Eye Shadow"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Drool"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Legionary Helmet"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Spear"
+		}
+	]
+}

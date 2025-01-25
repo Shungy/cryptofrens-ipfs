@@ -1,0 +1,27 @@
+{
+	"name": "Fren 346",
+	"image": "ipfs://bafkreiaclfbt7l7sryvw3dsncdkgnoh3hn3qzqta5tjlz6pscknoxgyt7m",
+	"external_url": "https://cryptofrens.xyz/fren/346",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Prisoner"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Large Pupils"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Very Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Trump Hair"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Big Nose"
+		}
+	]
+}

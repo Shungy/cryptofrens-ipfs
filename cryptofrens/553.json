@@ -1,0 +1,23 @@
+{
+	"name": "Fren 553",
+	"image": "ipfs://bafkreibyluj5swzxuuohwwhgi3bawem2d7oqr5cvlx5qzvzvx6btf535gy",
+	"external_url": "https://cryptofrens.xyz/fren/553",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Leaf Sweater"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Flower Crown"
+		}
+	]
+}

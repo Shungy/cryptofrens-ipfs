@@ -1,0 +1,23 @@
+{
+	"name": "Fren 250",
+	"image": "ipfs://bafkreihwwpcfljyb6jx2tetcho2bkd5mrdai4ltqpl66nxf2o24iqrlbw4",
+	"external_url": "https://cryptofrens.xyz/fren/250",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Caesar"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sinister Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Black Beret"
+		}
+	]
+}

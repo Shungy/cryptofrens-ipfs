@@ -1,0 +1,27 @@
+{
+	"name": "Fren 404",
+	"image": "ipfs://bafkreidiwmw3gtjatjfy3to6womotnfm6lkojslwuoeynis72yur2rg3dy",
+	"external_url": "https://cryptofrens.xyz/fren/404",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Napoleon"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Fancy Hair"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Rapier"
+		}
+	]
+}

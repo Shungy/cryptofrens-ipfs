@@ -1,0 +1,23 @@
+{
+	"name": "Fren 4",
+	"image": "ipfs://bafkreieurmckfbieb6cva2mm5cvasuzfcsnrvnh4joxmkuqjqmnwsq77hi",
+	"external_url": "https://cryptofrens.xyz/fren/4",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Detective"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes With Eyelashes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Frizzly Beard"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Antlers"
+		}
+	]
+}

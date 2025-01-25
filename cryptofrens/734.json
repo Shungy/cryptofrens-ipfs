@@ -1,0 +1,27 @@
+{
+	"name": "Fren 734",
+	"image": "ipfs://bafkreiapidvhfe6rzwzw7w36qur7b2chwekmakuavk6v4os46hsvt3lyxy",
+	"external_url": "https://cryptofrens.xyz/fren/734",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Tuxedo"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Lizard Red"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Fedora"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Whisky"
+		}
+	]
+}

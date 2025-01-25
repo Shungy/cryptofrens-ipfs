@@ -1,0 +1,23 @@
+{
+	"name": "Fren 52",
+	"image": "ipfs://bafkreihqr2hdcb3gfnql6wlgpukd24xbbrkb4fe4bn5swc475duzcxu3ue",
+	"external_url": "https://cryptofrens.xyz/fren/52",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Chef"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Drool"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Chef’s Hat"
+		}
+	]
+}

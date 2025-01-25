@@ -1,0 +1,27 @@
+{
+	"name": "Fren 308",
+	"image": "ipfs://bafkreihrgbmjltek2o5wgzmunuga67ghpvtui5b4vnpnpxpw6seo6fa4aa",
+	"external_url": "https://cryptofrens.xyz/fren/308",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Ninja"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Ninja Hair"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Kunai"
+		}
+	]
+}

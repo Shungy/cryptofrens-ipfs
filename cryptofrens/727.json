@@ -1,0 +1,23 @@
+{
+	"name": "Fren 727",
+	"image": "ipfs://bafkreiesxam5hnpb62ejn6kofytbbvlr3osgcaii3mxybmx5lo2pvcv55m",
+	"external_url": "https://cryptofrens.xyz/fren/727",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Queen"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Breathing Mask"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Scepter"
+		}
+	]
+}

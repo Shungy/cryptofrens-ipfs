@@ -1,0 +1,19 @@
+{
+	"name": "Fren 704",
+	"image": "ipfs://bafkreigfdlq4lhnccqofuqk6zauorezm53janvku6hzcfcjqeren46dgze",
+	"external_url": "https://cryptofrens.xyz/fren/704",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Dracula"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Red Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		}
+	]
+}

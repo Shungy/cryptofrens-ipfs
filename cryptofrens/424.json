@@ -1,0 +1,23 @@
+{
+	"name": "Fren 424",
+	"image": "ipfs://bafkreidyl3e7ae4jhln2edmuell7pdhmvzh55yo37wemkdjsu37zybcck4",
+	"external_url": "https://cryptofrens.xyz/fren/424",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Yellow Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes With Eyelashes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Mad"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Teacup"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Fren 123",
+	"image": "ipfs://bafkreihspxlkl3o6i5pymcad7offshna7gn3dcibvf5p4mge6mesj273t4",
+	"external_url": "https://cryptofrens.xyz/fren/123",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Vigilante"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Cinema Glasses"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Mad"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Fren 18",
+	"image": "ipfs://bafkreiex4oir75zjxu4usbjq6e623d6z6slf7klmbw6j4vkk5jqrfku4fe",
+	"external_url": "https://cryptofrens.xyz/fren/18",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Gee Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Cocktail"
+		}
+	]
+}

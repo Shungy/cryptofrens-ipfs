@@ -1,0 +1,23 @@
+{
+	"name": "Fren 293",
+	"image": "ipfs://bafkreif7hctja7yd363dsjmpffg4jsxgp537ljjngdu4e3ij3byczmrohy",
+	"external_url": "https://cryptofrens.xyz/fren/293",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Comrade"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Red Blue Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Ushanka"
+		}
+	]
+}

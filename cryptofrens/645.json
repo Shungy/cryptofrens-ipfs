@@ -1,0 +1,27 @@
+{
+	"name": "Fren 645",
+	"image": "ipfs://bafkreifahootqdbqpsnzi7oitv5b5ajillbekpjrihjjzbhsiyxxwwrqga",
+	"external_url": "https://cryptofrens.xyz/fren/645",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Dracula"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Vampire Teeth"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Propeller Beanie"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Bloody Hand"
+		}
+	]
+}

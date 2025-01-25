@@ -1,0 +1,19 @@
+{
+	"name": "Fren 40",
+	"image": "ipfs://bafkreih5khxxnxyxexy4wapreyzgl6inthgizno4ntiisz4qz5syhke6j4",
+	"external_url": "https://cryptofrens.xyz/fren/40",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Turtle"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Teary Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		}
+	]
+}

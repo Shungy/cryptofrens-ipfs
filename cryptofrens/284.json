@@ -1,0 +1,27 @@
+{
+	"name": "Fren 284",
+	"image": "ipfs://bafkreiceif27e3qxfpcwwqva5zrjqd3vuxfreimzezvtw7lk2hek5ifb2a",
+	"external_url": "https://cryptofrens.xyz/fren/284",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Orange Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Large Pupils"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Caesar’s Crown"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Cigarette"
+		}
+	]
+}

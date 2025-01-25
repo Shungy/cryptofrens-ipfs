@@ -1,0 +1,27 @@
+{
+	"name": "Fren 389",
+	"image": "ipfs://bafkreiagnnk24qug4y4heeh2zflvn6qcgaodv5nbhep4g6ivkjqkshydp4",
+	"external_url": "https://cryptofrens.xyz/fren/389",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Ottoman"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Long Moustache"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Fez"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Switchblade"
+		}
+	]
+}

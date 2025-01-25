@@ -1,0 +1,23 @@
+{
+	"name": "Fren 7",
+	"image": "ipfs://bafkreihryxyrwbaukzpm7er3o5t56mhssjz4ah5y533sz3ssx64m4ixckm",
+	"external_url": "https://cryptofrens.xyz/fren/7",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Basketball Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Teary Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Drool"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Sailor Hat"
+		}
+	]
+}

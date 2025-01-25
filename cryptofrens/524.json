@@ -1,0 +1,27 @@
+{
+	"name": "Fren 524",
+	"image": "ipfs://bafkreiac72t2qqbxl2wczzxuuq7cdzdsovglgsnrdneotivcjgrvxmvvjm",
+	"external_url": "https://cryptofrens.xyz/fren/524",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Comrade"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Large Pupils"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Caesar’s Crown"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Victory Sign"
+		}
+	]
+}

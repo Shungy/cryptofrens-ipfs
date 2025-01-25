@@ -1,0 +1,27 @@
+{
+	"name": "Fren 717",
+	"image": "ipfs://bafkreigk5ks46rm3ci3ajwmoo5uwzvcejr43ssmxpe2bwjsdiz7fnselvm",
+	"external_url": "https://cryptofrens.xyz/fren/717",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Poncho"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sad Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Nurse Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Maraca"
+		}
+	]
+}

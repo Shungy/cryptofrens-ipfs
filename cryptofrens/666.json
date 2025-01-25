@@ -1,0 +1,23 @@
+{
+	"name": "Fren 666",
+	"image": "ipfs://bafkreihbirjs6j3s3bwznchegzfzivoxq4sygwzwmssqtcvzwdenl35swm",
+	"external_url": "https://cryptofrens.xyz/fren/666",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Leaf Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Large Pupils"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Very Happy"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Wrench"
+		}
+	]
+}

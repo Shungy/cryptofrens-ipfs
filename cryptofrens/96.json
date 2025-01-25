@@ -1,0 +1,23 @@
+{
+	"name": "Fren 96",
+	"image": "ipfs://bafkreiaeqpjofhae7i2ufqu3wo7k434tm4cg4bu32u5eg6onj44wmkugu4",
+	"external_url": "https://cryptofrens.xyz/fren/96",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Legionary"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Legionary Helmet"
+		}
+	]
+}

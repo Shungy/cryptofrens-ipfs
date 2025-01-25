@@ -1,0 +1,27 @@
+{
+	"name": "Fren 437",
+	"image": "ipfs://bafkreiebsb7bkmpaex74dpqhaysmacjo45g277luu3zmagz4mf2nligxde",
+	"external_url": "https://cryptofrens.xyz/fren/437",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Indian"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Rice Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Namaste"
+		}
+	]
+}

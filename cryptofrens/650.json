@@ -1,0 +1,19 @@
+{
+	"name": "Fren 650",
+	"image": "ipfs://bafkreiefz3344vpeg4zbm5xyt6jjjr4vs5j77vzlluthlvffzbg77vphca",
+	"external_url": "https://cryptofrens.xyz/fren/650",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Knight Armor"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		}
+	]
+}

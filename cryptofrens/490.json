@@ -1,0 +1,23 @@
+{
+	"name": "Fren 490",
+	"image": "ipfs://bafkreibfwmo2utayy2y33udrabt6pug2wcgepmvnm6jbk4bzo4xn4j5ady",
+	"external_url": "https://cryptofrens.xyz/fren/490",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Basketball Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Eye Shadow"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Royal Guard Hat"
+		}
+	]
+}

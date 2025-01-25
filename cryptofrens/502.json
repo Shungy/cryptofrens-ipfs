@@ -1,0 +1,23 @@
+{
+	"name": "Fren 502",
+	"image": "ipfs://bafkreic7im4z4mepd6ponhazuhnwxknlwlqxawvsklvhuqawe3mui7u7re",
+	"external_url": "https://cryptofrens.xyz/fren/502",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Orange Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Mad"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Hook"
+		}
+	]
+}

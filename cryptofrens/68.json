@@ -1,0 +1,19 @@
+{
+	"name": "Fren 68",
+	"image": "ipfs://bafkreigi5a3hu2vczqfog2fjpzdjyvxqznrqh7fciqrveibg3xjpqawpge",
+	"external_url": "https://cryptofrens.xyz/fren/68",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Sweater"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Pipe"
+		}
+	]
+}

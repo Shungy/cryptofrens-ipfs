@@ -1,0 +1,27 @@
+{
+	"name": "Fren 234",
+	"image": "ipfs://bafkreifggfnhi3schanhrghd6ibqhdzlyxtl4cwmfk6k6agixxz5yzuid4",
+	"external_url": "https://cryptofrens.xyz/fren/234",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Funnel"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Cocktail"
+		}
+	]
+}

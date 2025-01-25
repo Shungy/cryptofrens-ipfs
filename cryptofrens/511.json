@@ -1,0 +1,31 @@
+{
+	"name": "Fren 511",
+	"image": "ipfs://bafkreid5otg7qqvbo4utx4hd4442brzbxb5dqyh2pqa5msxyuazc6tryii",
+	"external_url": "https://cryptofrens.xyz/fren/511",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Tuxedo"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Headbump"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Large Ear"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Whisky"
+		}
+	]
+}

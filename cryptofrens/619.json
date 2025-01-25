@@ -1,0 +1,23 @@
+{
+	"name": "Fren 619",
+	"image": "ipfs://bafkreigwdx4eqozpruabezsves4payl4tqrz26mscrh5oyk3aycvjinlja",
+	"external_url": "https://cryptofrens.xyz/fren/619",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Detective"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Mad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Detective Cap"
+		}
+	]
+}

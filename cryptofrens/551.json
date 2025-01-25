@@ -1,0 +1,27 @@
+{
+	"name": "Fren 551",
+	"image": "ipfs://bafkreigo3empzruyhwoojzwqlz7buc2vmsyw4fi6buuu6rtoe4ptu77mqe",
+	"external_url": "https://cryptofrens.xyz/fren/551",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Plaid Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Bitcoin Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Very Happy With Tongue"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Black Beret"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Handwave"
+		}
+	]
+}

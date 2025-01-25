@@ -1,0 +1,23 @@
+{
+	"name": "Fren 484",
+	"image": "ipfs://bafkreifn3ct75ko2hllympbezqog4ygkaqv62ig42ctldfijn64iyanrza",
+	"external_url": "https://cryptofrens.xyz/fren/484",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Sailor"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Sailor Hat"
+		}
+	]
+}

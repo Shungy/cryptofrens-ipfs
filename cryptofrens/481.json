@@ -1,0 +1,23 @@
+{
+	"name": "Fren 481",
+	"image": "ipfs://bafkreibmfnw34jbpo7y36wkbraaf4i3qdwazrceaijcrjinnvt7b5y4wxm",
+	"external_url": "https://cryptofrens.xyz/fren/481",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Sweater"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Bloodshot"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Napoleon’s Hat"
+		}
+	]
+}

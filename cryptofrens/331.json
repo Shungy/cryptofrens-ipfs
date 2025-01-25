@@ -1,0 +1,23 @@
+{
+	"name": "Fren 331",
+	"image": "ipfs://bafkreie6sdfh6mnssrrm2ktv7k5sxearisbd2xpwgzno4rlfayigirg3yy",
+	"external_url": "https://cryptofrens.xyz/fren/331",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sad Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Chef’s Hat"
+		}
+	]
+}

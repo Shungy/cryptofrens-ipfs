@@ -1,0 +1,31 @@
+{
+	"name": "Fren 504",
+	"image": "ipfs://bafkreid7mr42w25tgj46ecusmb5gkzhnnsncsnw3kqb3gryyqiqij7d5da",
+	"external_url": "https://cryptofrens.xyz/fren/504",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Drunkard Sailor"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Rainbow Hat"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Big Nose"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Rapier"
+		}
+	]
+}

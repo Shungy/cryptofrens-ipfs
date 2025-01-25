@@ -1,0 +1,27 @@
+{
+	"name": "Fren 680",
+	"image": "ipfs://bafkreifz5jgk7cz75uhe72cctth2w4ayelcuch3gn46cvkjyi5fxki3szm",
+	"external_url": "https://cryptofrens.xyz/fren/680",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Comrade"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Weed Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Clown Nose"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Victory Sign"
+		}
+	]
+}

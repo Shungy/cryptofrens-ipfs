@@ -1,0 +1,23 @@
+{
+	"name": "Fren 94",
+	"image": "ipfs://bafkreia4mbb7hxbgnt7rocemidkj4lltrnvgyq5w2lbj64a7nchotm7jue",
+	"external_url": "https://cryptofrens.xyz/fren/94",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Detective"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Vampire Teeth"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Spiky Hair"
+		}
+	]
+}

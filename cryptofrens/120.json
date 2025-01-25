@@ -1,0 +1,19 @@
+{
+	"name": "Fren 120",
+	"image": "ipfs://bafkreiaintfcowv7astxwnfymmnreybpq7gjxvt4cqgbs3qqw2h5hdzwg4",
+	"external_url": "https://cryptofrens.xyz/fren/120",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Chef"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Pacifier"
+		}
+	]
+}

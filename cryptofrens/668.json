@@ -1,0 +1,23 @@
+{
+	"name": "Fren 668",
+	"image": "ipfs://bafkreichonlkbz6nzg4lk7lq3ozepa3frqb67c24lrr5hwbdmltc3t2aou",
+	"external_url": "https://cryptofrens.xyz/fren/668",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Cultist"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Slice Brain"
+		}
+	]
+}

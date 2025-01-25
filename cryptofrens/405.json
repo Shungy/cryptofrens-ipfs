@@ -1,0 +1,23 @@
+{
+	"name": "Fren 405",
+	"image": "ipfs://bafkreieb2ciatoyhgj5yhh4yflkmat6kc36w5ser2wka72vw22ubxfa7ta",
+	"external_url": "https://cryptofrens.xyz/fren/405",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Black Mask"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Highfive"
+		}
+	]
+}

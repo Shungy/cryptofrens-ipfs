@@ -1,0 +1,23 @@
+{
+	"name": "Fren 532",
+	"image": "ipfs://bafkreigxaxgzae6gyhbsbkdzoycjn2irsqylffrmfaahi3lpgtx3wr6ivu",
+	"external_url": "https://cryptofrens.xyz/fren/532",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Orange Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Oblique"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Apple"
+		}
+	]
+}

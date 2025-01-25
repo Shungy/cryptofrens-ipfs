@@ -1,0 +1,23 @@
+{
+	"name": "Fren 194",
+	"image": "ipfs://bafkreig3qef4dretz5plp3p2sctneywj2lx5tvtyu7p6kxoiq3t2zcaxyq",
+	"external_url": "https://cryptofrens.xyz/fren/194",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Bikini"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sinister Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "McCap"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"name": "Fren 180",
+	"image": "ipfs://bafkreihgtjd2m66j2eg7rcctifcnqkea5eytv5hgphhchwo4xr6waemqae",
+	"external_url": "https://cryptofrens.xyz/fren/180",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Gown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Big Brain"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Clown Nose"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Bouquet"
+		}
+	]
+}

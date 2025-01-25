@@ -1,0 +1,19 @@
+{
+	"name": "Fren 1",
+	"image": "ipfs://bafkreibxs7f7h3i7elirc7s4m5m27dg5ihe4onussozhypfiqhaq7vprhy",
+	"external_url": "https://cryptofrens.xyz/fren/1",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Napoleon"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		}
+	]
+}

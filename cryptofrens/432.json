@@ -1,0 +1,23 @@
+{
+	"name": "Fren 432",
+	"image": "ipfs://bafkreigmuzra2bcwpckx3m4tsv644hc52ab3dp5xwuz3f6g254bqde5cuq",
+	"external_url": "https://cryptofrens.xyz/fren/432",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Tuxedo"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Antlers"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Fren 626",
+	"image": "ipfs://bafkreidj2jcnizusj36eucdxhl2kpgdbzd4ercaip5a4idkxicvbaosqmy",
+	"external_url": "https://cryptofrens.xyz/fren/626",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Tuxedo"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Nerd Glasses"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Rice Hat"
+		}
+	]
+}

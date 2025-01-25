@@ -1,0 +1,23 @@
+{
+	"name": "Fren 455",
+	"image": "ipfs://bafkreifczelheb5tlrkd4l2smn4dmhb7xmgb2awel4j4m55bwmw7abqm54",
+	"external_url": "https://cryptofrens.xyz/fren/455",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Royal Guard"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sinister Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Royal Guard Hat"
+		}
+	]
+}

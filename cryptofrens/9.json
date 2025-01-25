@@ -1,0 +1,19 @@
+{
+	"name": "Fren 9",
+	"image": "ipfs://bafkreih6qoyyejfootnrqear3urz7b3o62bvx5ua65tewaeiwmoa3rclfy",
+	"external_url": "https://cryptofrens.xyz/fren/9",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Swordmaster"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Teary Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Frizzly Beard"
+		}
+	]
+}

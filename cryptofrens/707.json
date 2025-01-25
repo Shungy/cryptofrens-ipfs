@@ -1,0 +1,23 @@
+{
+	"name": "Fren 707",
+	"image": "ipfs://bafkreicktlqiswcgasbblj2qaml2isxbfqvwe472imtlb5e2nxlcve27oy",
+	"external_url": "https://cryptofrens.xyz/fren/707",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Sailor"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Scooter Helmet"
+		}
+	]
+}

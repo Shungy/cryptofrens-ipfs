@@ -1,0 +1,27 @@
+{
+	"name": "Fren 132",
+	"image": "ipfs://bafkreigh3sls275lyzn5mhd24ulzoyiupwoywn4enua427aampvd572roy",
+	"external_url": "https://cryptofrens.xyz/fren/132",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Medusa"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Shocked"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Nurse Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Thumbsup"
+		}
+	]
+}

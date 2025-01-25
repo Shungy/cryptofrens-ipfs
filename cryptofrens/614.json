@@ -1,0 +1,27 @@
+{
+	"name": "Fren 614",
+	"image": "ipfs://bafkreihcpwpuutljyx47v7dowdexuh4gdynx37yl2z32psec3nyoky6mai",
+	"external_url": "https://cryptofrens.xyz/fren/614",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Poncho"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "White Beard"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Safety Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Maraca"
+		}
+	]
+}

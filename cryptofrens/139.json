@@ -1,0 +1,23 @@
+{
+	"name": "Fren 139",
+	"image": "ipfs://bafkreibe3eujoobwhcaihsrzgz272enrbgmwupuve4syac47vw55xdmraq",
+	"external_url": "https://cryptofrens.xyz/fren/139",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Tuxedo"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Wine"
+		}
+	]
+}

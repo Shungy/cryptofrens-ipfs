@@ -1,0 +1,23 @@
+{
+	"name": "Fren 165",
+	"image": "ipfs://bafkreiax27farjkqtftxhqctk7qmnjspukvouzeucrmkiqskntqzajsxne",
+	"external_url": "https://cryptofrens.xyz/fren/165",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Drool"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Middle Finger"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"name": "Fren 151",
+	"image": "ipfs://bafkreib3ud432z7ryl26id463pkofacbhdn45bgwchxfntlua7coj3zksy",
+	"external_url": "https://cryptofrens.xyz/fren/151",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Tuxedo"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Mad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "ADA Cap"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Unibrow"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Wine"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Fren 636",
+	"image": "ipfs://bafkreibhbulwordm7evvxvenamy7ey3hr7jxnxoscmruop6hrg6pswj3bm",
+	"external_url": "https://cryptofrens.xyz/fren/636",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sad Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Mounty Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Cocktail"
+		}
+	]
+}

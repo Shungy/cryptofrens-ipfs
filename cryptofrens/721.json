@@ -1,0 +1,23 @@
+{
+	"name": "Fren 721",
+	"image": "ipfs://bafkreics2au3gedi4ozkcsdv44rigdpak7syhv7xzdc5ozmlpwy7eji32i",
+	"external_url": "https://cryptofrens.xyz/fren/721",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Military Man"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Large Pupils"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Pistol"
+		}
+	]
+}

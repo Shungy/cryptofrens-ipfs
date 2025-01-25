@@ -1,0 +1,23 @@
+{
+	"name": "Fren 527",
+	"image": "ipfs://bafkreifromiofbchrf4icex4tynxxv6q7n7wlexeprh667br7d5gaa3vdi",
+	"external_url": "https://cryptofrens.xyz/fren/527",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Napoleon"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Big Brain"
+		}
+	]
+}

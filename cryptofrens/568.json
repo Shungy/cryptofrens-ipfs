@@ -1,0 +1,23 @@
+{
+	"name": "Fren 568",
+	"image": "ipfs://bafkreidk52phlgfrw7bvbn6u7a42qpqk3tscbogm2dmo2jphqvlesufkdy",
+	"external_url": "https://cryptofrens.xyz/fren/568",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Drunkard Sailor"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Frizzly Beard"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Dreadlocks"
+		}
+	]
+}

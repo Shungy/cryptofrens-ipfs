@@ -1,0 +1,27 @@
+{
+	"name": "Fren 438",
+	"image": "ipfs://bafkreigxmk2ljjcklcw4uuwgxzg5y5jmsvlj3ffr4ue6bneczqdmouhgvy",
+	"external_url": "https://cryptofrens.xyz/fren/438",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Napoleon"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Mad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Rabbit Ears"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Rapier"
+		}
+	]
+}

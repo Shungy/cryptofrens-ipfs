@@ -1,0 +1,27 @@
+{
+	"name": "Fren 212",
+	"image": "ipfs://bafkreibxo5gmqngp2irglqig6wix5wfx7mysgapuuf7defqgt4d53myhb4",
+	"external_url": "https://cryptofrens.xyz/fren/212",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Farmer"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Red Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Camo Helmet With Message"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Pitchfork"
+		}
+	]
+}

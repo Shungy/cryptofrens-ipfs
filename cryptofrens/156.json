@@ -1,0 +1,27 @@
+{
+	"name": "Fren 156",
+	"image": "ipfs://bafkreiggdev2cvhya6amaopsnaggvjfoyfzmuwtwa53wh23vs54uhljhg4",
+	"external_url": "https://cryptofrens.xyz/fren/156",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Safety Vest"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sinister Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Scooter Helmet"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Paintbrush"
+		}
+	]
+}

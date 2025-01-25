@@ -1,0 +1,23 @@
+{
+	"name": "Fren 43",
+	"image": "ipfs://bafkreidyt44a4vgfswon625o6altep6hukzjwe6motig5pax2tmoevrw6u",
+	"external_url": "https://cryptofrens.xyz/fren/43",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Orange Sweater"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sad Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Straw Hat With Hair"
+		}
+	]
+}

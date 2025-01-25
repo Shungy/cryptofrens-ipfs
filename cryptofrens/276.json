@@ -1,0 +1,27 @@
+{
+	"name": "Fren 276",
+	"image": "ipfs://bafkreic7wmsf555horwo343k3mr5ifep7xamc3pj63hpdozx6hnctmd5my",
+	"external_url": "https://cryptofrens.xyz/fren/276",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Safety Vest"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Caesar’s Crown"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Prayer Beads"
+		}
+	]
+}

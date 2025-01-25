@@ -1,0 +1,23 @@
+{
+	"name": "Fren 523",
+	"image": "ipfs://bafkreib2vllewxb5z3jsmnrkazrlebkpf7rzxbmuri6bdvvasgjvhl2bzi",
+	"external_url": "https://cryptofrens.xyz/fren/523",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Sweater"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Shocked"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Frizzly Beard"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Seagull"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Fren 62",
+	"image": "ipfs://bafkreiad2tjsh34zlbp7kwyda75skqnixxyhhd7wp3d4zmaf4tt7hmxqi4",
+	"external_url": "https://cryptofrens.xyz/fren/62",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Orange Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Shocked"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Straw Hat"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Droopy Nose"
+		}
+	]
+}

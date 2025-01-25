@@ -1,0 +1,27 @@
+{
+	"name": "Fren 108",
+	"image": "ipfs://bafkreif7dttzfq6gduv26tkyrdr3blwmqb2a22ejvpeqvew24rpj632bta",
+	"external_url": "https://cryptofrens.xyz/fren/108",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Arab"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Oblique"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Very Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Clown Hat"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Big Nose"
+		}
+	]
+}

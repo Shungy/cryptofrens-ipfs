@@ -1,0 +1,19 @@
+{
+	"name": "Fren 140",
+	"image": "ipfs://bafkreigcrwjh23cxiyx3hole4lmlh6j5y6rxbqjwudmgyy2nnqizgd6rwy",
+	"external_url": "https://cryptofrens.xyz/fren/140",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Orange Sweater"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Red Round Glasses"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		}
+	]
+}

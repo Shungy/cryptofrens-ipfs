@@ -1,0 +1,23 @@
+{
+	"name": "Fren 485",
+	"image": "ipfs://bafkreicamuvc7oebzkejjwuc4qqwenjejwsc4qrsrw6vova6b3jio3ose4",
+	"external_url": "https://cryptofrens.xyz/fren/485",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Sweater"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Shocked"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Pope’s Hat"
+		}
+	]
+}

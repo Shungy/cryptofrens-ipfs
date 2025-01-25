@@ -1,0 +1,27 @@
+{
+	"name": "Fren 639",
+	"image": "ipfs://bafkreiburjqe5km5p6jryzysamnmknmetexqr3yruwidgcrlzewo6jlkbi",
+	"external_url": "https://cryptofrens.xyz/fren/639",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Safety Vest"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Large Pupils"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Medusa Head"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Teacup"
+		}
+	]
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Fren 730",
+	"image": "ipfs://bafkreiayg3fdhsyd37l5ulrqn45cnpd7s5lxb34gmh34dbummilzcmyjp4",
+	"external_url": "https://cryptofrens.xyz/fren/730",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Sultan"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Big Nose"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Sultan Flowers"
+		}
+	]
+}

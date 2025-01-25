@@ -1,0 +1,27 @@
+{
+	"name": "Fren 545",
+	"image": "ipfs://bafkreigkvbfykciqycymeizi5yv3gkbdo3alnzwm4tr6ztxk4u5v7kmwha",
+	"external_url": "https://cryptofrens.xyz/fren/545",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Farmer"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Straw Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Pitchfork"
+		}
+	]
+}

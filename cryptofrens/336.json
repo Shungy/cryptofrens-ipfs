@@ -1,0 +1,23 @@
+{
+	"name": "Fren 336",
+	"image": "ipfs://bafkreibbmtjg3iozqrrq6xfsjrrjbb6k6yowvl7om2iwk2qeopmhvwryfu",
+	"external_url": "https://cryptofrens.xyz/fren/336",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Yellow Business Suit"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Trump Hair"
+		}
+	]
+}

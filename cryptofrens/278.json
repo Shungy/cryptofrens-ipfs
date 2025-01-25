@@ -1,0 +1,23 @@
+{
+	"name": "Fren 278",
+	"image": "ipfs://bafkreigbg4ghaahcepknd7xs4ucua2upxappwr35xhkuedykspnvbxw6ui",
+	"external_url": "https://cryptofrens.xyz/fren/278",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Prisoner"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Red Round Glasses"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Mad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Prisoner Hat"
+		}
+	]
+}

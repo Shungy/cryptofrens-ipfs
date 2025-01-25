@@ -1,0 +1,23 @@
+{
+	"name": "Fren 93",
+	"image": "ipfs://bafkreiasnikjytqdvnqagidl3t4ds7yk732fo4betv6xctr46w6uwfeyue",
+	"external_url": "https://cryptofrens.xyz/fren/93",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Mounty"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy Drool"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Parrot"
+		}
+	]
+}

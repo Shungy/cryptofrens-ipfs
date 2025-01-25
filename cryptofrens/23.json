@@ -1,0 +1,19 @@
+{
+	"name": "Fren 23",
+	"image": "ipfs://bafkreibbyusgp7exjm2ztu5goyxtcyas4atlcnlmewr7qv4eq7fqzglpwy",
+	"external_url": "https://cryptofrens.xyz/fren/23",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Gaffur"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Mad"
+		}
+	]
+}

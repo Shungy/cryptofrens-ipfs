@@ -1,0 +1,27 @@
+{
+	"name": "Fren 652",
+	"image": "ipfs://bafkreifdxtb65qen64fgfjq27wgrvhhhcegfhhoa7mrrrfi65ki36x5myq",
+	"external_url": "https://cryptofrens.xyz/fren/652",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Shocked"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Arrow Through Apple"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Boxing Glove"
+		}
+	]
+}

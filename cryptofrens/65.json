@@ -1,0 +1,27 @@
+{
+	"name": "Fren 65",
+	"image": "ipfs://bafkreiee556eicaxp2yqthbisn4cpgto45o5rcm7tnxxerd2o2fa4twok4",
+	"external_url": "https://cryptofrens.xyz/fren/65",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Lizard Red"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Knights Helmet"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Rolling Pin"
+		}
+	]
+}

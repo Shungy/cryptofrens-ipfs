@@ -1,0 +1,23 @@
+{
+	"name": "Fren 216",
+	"image": "ipfs://bafkreid6ldmpbcw6zmg3fttwrxk42ktfeqlxrturujojlefxsuzeopov7y",
+	"external_url": "https://cryptofrens.xyz/fren/216",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Fast Dude"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Tongue Out"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Rabbit Ears"
+		}
+	]
+}

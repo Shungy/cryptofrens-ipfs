@@ -1,0 +1,4 @@
+Pin everything minted in my nft projects using IPFS
+Pinning guarantees the liveness of the NFT projects.
+
+If you're on Llinux you can simply install `kubo` from IPFS and then run `sh ipfs_pin.sh`

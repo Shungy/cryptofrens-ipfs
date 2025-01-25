@@ -1,0 +1,27 @@
+{
+	"name": "Fren 693",
+	"image": "ipfs://bafkreiakj6pa7umiuus4oq43zgyk4ukgmbj5fcpkvx3wr6hyzk4wjtpece",
+	"external_url": "https://cryptofrens.xyz/fren/693",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Nurse"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Knights Helmet"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Large Needle"
+		}
+	]
+}

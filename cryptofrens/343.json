@@ -1,0 +1,23 @@
+{
+	"name": "Fren 343",
+	"image": "ipfs://bafkreib4czn6kbpe5cqztjtwlktopdaxb6c5h2aixphclhlsvoal4bai5q",
+	"external_url": "https://cryptofrens.xyz/fren/343",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Pope"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Heart Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Bucktooth"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Pope’s Hat"
+		}
+	]
+}

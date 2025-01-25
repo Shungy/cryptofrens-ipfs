@@ -1,0 +1,19 @@
+{
+	"name": "Fren 24",
+	"image": "ipfs://bafkreidlo6b35r35s4jgid47mmceas52ph3amwp5riqd4txwqwuoxr5g5a",
+	"external_url": "https://cryptofrens.xyz/fren/24",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Sweater"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Pacifier"
+		}
+	]
+}

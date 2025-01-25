@@ -1,0 +1,23 @@
+{
+	"name": "Fren 172",
+	"image": "ipfs://bafkreiduiks57a2kbiy7anyzeoo3hgdx2wuez275ldb737qz7amxwgc5uq",
+	"external_url": "https://cryptofrens.xyz/fren/172",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Ruffian"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Switchblade"
+		}
+	]
+}

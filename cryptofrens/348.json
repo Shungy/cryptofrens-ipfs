@@ -1,0 +1,23 @@
+{
+	"name": "Fren 348",
+	"image": "ipfs://bafkreiebc6csk3bebht323qbgnlruccmc4niblhdrxjuen4z6aqaxiu7jq",
+	"external_url": "https://cryptofrens.xyz/fren/348",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Turtle"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Unicorn"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Fren 380",
+	"image": "ipfs://bafkreihwbdh7gwstjzdmnb3jyhp7eixvkvuykuvpxckzem7mtpqxp5zmd4",
+	"external_url": "https://cryptofrens.xyz/fren/380",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Prisoner"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Very Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Seagull"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"name": "Fren 256",
+	"image": "ipfs://bafkreigq6skmv6digss2egpqwclzbu7cws55yo5zwjrtqdmax3zgzbomne",
+	"external_url": "https://cryptofrens.xyz/fren/256",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "African"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "African Headscarf"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Unibrow"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Prayer Beads"
+		}
+	]
+}

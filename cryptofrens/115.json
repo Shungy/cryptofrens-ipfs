@@ -1,0 +1,27 @@
+{
+	"name": "Fren 115",
+	"image": "ipfs://bafkreihuqvwjcl35mqkhyqxhmnd3zezo6hantsujzx4jhmvxu2jp4adxt4",
+	"external_url": "https://cryptofrens.xyz/fren/115",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Queen"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Teary Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Arabic Headdress"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Scepter"
+		}
+	]
+}

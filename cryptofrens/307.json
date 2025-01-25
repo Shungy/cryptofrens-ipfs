@@ -1,0 +1,27 @@
+{
+	"name": "Fren 307",
+	"image": "ipfs://bafkreifma4jjb6hjqweceynise4gwwsfkutmvevhabgqso5prafv7oy6be",
+	"external_url": "https://cryptofrens.xyz/fren/307",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Sleeveless Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Lizard Tongue"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Witch Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Apple"
+		}
+	]
+}

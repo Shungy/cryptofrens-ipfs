@@ -1,0 +1,27 @@
+{
+	"name": "Fren 365",
+	"image": "ipfs://bafkreic5dfjcx36mt7kciy6s5a3rvhwib77dl24pvymw7qalfm3oud2ocq",
+	"external_url": "https://cryptofrens.xyz/fren/365",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Military Man"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Very Happy With Tongue"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Hair Bow"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Pistol"
+		}
+	]
+}

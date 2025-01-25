@@ -1,0 +1,27 @@
+{
+	"name": "Fren 470",
+	"image": "ipfs://bafkreibgj3blluasezhqbiumivorxsbuqf43d7d3dd6cjmkmcfbhtw4t7m",
+	"external_url": "https://cryptofrens.xyz/fren/470",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Bear"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Drool"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Droopy Nose"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Apple"
+		}
+	]
+}

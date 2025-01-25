@@ -1,0 +1,27 @@
+{
+	"name": "Fren 364",
+	"image": "ipfs://bafkreifk6lt56lwxmfocp4lpnh4ly2x44m4avvefktvgdqxqsihubhpwb4",
+	"external_url": "https://cryptofrens.xyz/fren/364",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Bear"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Head",
+			"value": "ADA Cap"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Large Needle"
+		}
+	]
+}

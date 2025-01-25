@@ -1,0 +1,27 @@
+{
+	"name": "Fren 41",
+	"image": "ipfs://bafkreigtyautuckvj45xqvsbvlla43qgonadopbbv7t6xm36b5vlygcvfm",
+	"external_url": "https://cryptofrens.xyz/fren/41",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Detective"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Rat"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Scar"
+		}
+	]
+}

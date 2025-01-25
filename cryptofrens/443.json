@@ -1,0 +1,23 @@
+{
+	"name": "Fren 443",
+	"image": "ipfs://bafkreigi2ad23ddjureqfbfla53kltc6vy43iatoc6lg7yy67gykmcfezq",
+	"external_url": "https://cryptofrens.xyz/fren/443",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Delinquent"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Red Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Dreadlocks"
+		}
+	]
+}

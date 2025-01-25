@@ -1,0 +1,23 @@
+{
+	"name": "Fren 102",
+	"image": "ipfs://bafkreifux63vt2tf76lseigzfamzg7ey2d33raxrcj2tjf5g7o5rtb6a5a",
+	"external_url": "https://cryptofrens.xyz/fren/102",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Uncle Sam"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Teary Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Drool"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Indian Headdress"
+		}
+	]
+}

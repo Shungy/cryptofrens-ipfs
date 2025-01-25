@@ -1,0 +1,27 @@
+{
+	"name": "Fren 572",
+	"image": "ipfs://bafkreihjlen22tqie44g3rqjc5g7sp5e4sd3wwbmhy3obufejpk6crht44",
+	"external_url": "https://cryptofrens.xyz/fren/572",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "FBI Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Normal"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Headset"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Wolverine"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Fren 176",
+	"image": "ipfs://bafkreieo27ykhpnnv33pygtfpkrxoaetimdw5roh5g44ihlilxj4zvbqgu",
+	"external_url": "https://cryptofrens.xyz/fren/176",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Cop"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sinister Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Pistol"
+		}
+	]
+}

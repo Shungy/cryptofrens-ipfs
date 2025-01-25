@@ -1,0 +1,23 @@
+{
+	"name": "Fren 130",
+	"image": "ipfs://bafkreifm7bncqjzmubqb4uaits6zsguvsbov4rzfooqoelot6licdnjtta",
+	"external_url": "https://cryptofrens.xyz/fren/130",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Comrade"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Pink Glasses"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Victory Sign"
+		}
+	]
+}

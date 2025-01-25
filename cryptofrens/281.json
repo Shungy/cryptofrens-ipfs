@@ -1,0 +1,19 @@
+{
+	"name": "Fren 281",
+	"image": "ipfs://bafkreiernr4mpqqdps2dnphfq4c667tgtvgzfzkjgcxpghmqxm3nni5vdm",
+	"external_url": "https://cryptofrens.xyz/fren/281",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Uncle Sam"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Red Round Glasses"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		}
+	]
+}

@@ -1,0 +1,31 @@
+{
+	"name": "Fren 560",
+	"image": "ipfs://bafkreih4xgop7crvaeqbv4qetxfwx3tugkgppg3z27in6yfaa35sqt3hy4",
+	"external_url": "https://cryptofrens.xyz/fren/560",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Shocked"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy Drool"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Hair Bow"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Big Nose"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Rock Hand"
+		}
+	]
+}

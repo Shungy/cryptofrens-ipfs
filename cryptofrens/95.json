@@ -1,0 +1,23 @@
+{
+	"name": "Fren 95",
+	"image": "ipfs://bafkreigahtctdh4ucu5br6bqlsi2nggq42yw6qenpcurfw4fxse6fwva5e",
+	"external_url": "https://cryptofrens.xyz/fren/95",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Arab"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Magical Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Lollipop"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Witch Hat"
+		}
+	]
+}

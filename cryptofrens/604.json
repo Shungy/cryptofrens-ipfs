@@ -1,0 +1,31 @@
+{
+	"name": "Fren 604",
+	"image": "ipfs://bafkreieinqh7qya4lkfjmyoi3xkwhfkhsaw47j7dgq2g52pd4q6e354qpu",
+	"external_url": "https://cryptofrens.xyz/fren/604",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Teary Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Mounty Hat"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Massive Ear"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Boxing Glove"
+		}
+	]
+}

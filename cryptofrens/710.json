@@ -1,0 +1,23 @@
+{
+	"name": "Fren 710",
+	"image": "ipfs://bafkreieaeb5eau74t32lq55xos6qlug2aexefurzkybocxrkj6su43b7dy",
+	"external_url": "https://cryptofrens.xyz/fren/710",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Pilot"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sinister Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Drool"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Pilot Helmet"
+		}
+	]
+}

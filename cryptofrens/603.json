@@ -1,0 +1,27 @@
+{
+	"name": "Fren 603",
+	"image": "ipfs://bafkreie26q6wcortzqj7v2c2frrptnkv7g2vp7oarevq3t6i6tbtvvpiwa",
+	"external_url": "https://cryptofrens.xyz/fren/603",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Popo Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Highfive"
+		}
+	]
+}

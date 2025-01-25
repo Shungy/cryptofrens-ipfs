@@ -1,0 +1,23 @@
+{
+	"name": "Fren 80",
+	"image": "ipfs://bafkreicmun5e6bpezcdzhk7nxuelo3z6lcbkxfm6vcsmlh5bc2deiplnzq",
+	"external_url": "https://cryptofrens.xyz/fren/80",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Sultan"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Black Eye"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Drool"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Headset"
+		}
+	]
+}

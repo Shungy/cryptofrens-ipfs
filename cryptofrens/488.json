@@ -1,0 +1,27 @@
+{
+	"name": "Fren 488",
+	"image": "ipfs://bafkreih6qjwdeuwu4s27rhhx3yks3ndyev7wyfqrscl2s2o7yq7k5xoqtm",
+	"external_url": "https://cryptofrens.xyz/fren/488",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Magician"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Frizzly Beard"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Safety Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Magician Wand"
+		}
+	]
+}

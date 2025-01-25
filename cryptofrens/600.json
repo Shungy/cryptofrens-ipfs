@@ -1,0 +1,23 @@
+{
+	"name": "Fren 600",
+	"image": "ipfs://bafkreihgzvvh42kvwx7mjjnb4bmnojorygunajtrhg5ajxnevro7tdewzm",
+	"external_url": "https://cryptofrens.xyz/fren/600",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Shocked"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Cocktail"
+		}
+	]
+}

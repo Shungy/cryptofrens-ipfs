@@ -1,0 +1,27 @@
+{
+	"name": "Fren 379",
+	"image": "ipfs://bafkreid74enb5afg7ciyqrbf5enatgya6dvipem4dbhfryi3bdzko7tk5i",
+	"external_url": "https://cryptofrens.xyz/fren/379",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Sailor"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Black Sunglasses"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "McCap"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Army Salute"
+		}
+	]
+}

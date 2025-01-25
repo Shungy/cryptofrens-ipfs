@@ -1,0 +1,27 @@
+{
+	"name": "Fren 556",
+	"image": "ipfs://bafkreicvurkxzd6rhhe5tlbj6a6czw2qnfan6xu4cei22dgujct4ugnjiq",
+	"external_url": "https://cryptofrens.xyz/fren/556",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Ottoman"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Very Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Fez"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Switchblade"
+		}
+	]
+}

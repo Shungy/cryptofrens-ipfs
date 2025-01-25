@@ -1,0 +1,19 @@
+{
+	"name": "Fren 410",
+	"image": "ipfs://bafkreigmdt6jmbt5yywxmmqi42k2sayh7mj2lvn2ambevgcjufjbfx3dke",
+	"external_url": "https://cryptofrens.xyz/fren/410",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Farmer"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Lizard Yellow"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "White Beard"
+		}
+	]
+}

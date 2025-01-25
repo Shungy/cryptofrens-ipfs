@@ -1,0 +1,27 @@
+{
+	"name": "Fren 741",
+	"image": "ipfs://bafkreidacuozohuhsr53jei3krjeoaxr7fjdtlcegcawgzu6y45sztitbu",
+	"external_url": "https://cryptofrens.xyz/fren/741",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Clown"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Thick Moustache"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Rainbow Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Horn"
+		}
+	]
+}

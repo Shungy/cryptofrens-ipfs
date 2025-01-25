@@ -1,0 +1,27 @@
+{
+	"name": "Fren 378",
+	"image": "ipfs://bafkreiewcwzn4ulbqh5plqf3g7gmog3jhmlgxok22puylvjbfiyu6hrsgu",
+	"external_url": "https://cryptofrens.xyz/fren/378",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Orange Sweater"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sinister Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Stubble"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Cordovan Sombrero"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Unibrow"
+		}
+	]
+}

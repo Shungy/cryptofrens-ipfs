@@ -1,0 +1,23 @@
+{
+	"name": "Fren 415",
+	"image": "ipfs://bafkreigrrexalgircddg7vcsmymgyntg7cs2yassogqdjbsjgzxtlrsv44",
+	"external_url": "https://cryptofrens.xyz/fren/415",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Farmer"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Royal Guard Hat"
+		}
+	]
+}

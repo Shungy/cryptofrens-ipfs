@@ -1,0 +1,23 @@
+{
+	"name": "Fren 190",
+	"image": "ipfs://bafkreic5zxizv36my57ljcmyghcwm76dmyhbliy5qn2knnjmvyuqt4niqy",
+	"external_url": "https://cryptofrens.xyz/fren/190",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Pirate"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Hook"
+		}
+	]
+}

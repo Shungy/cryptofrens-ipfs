@@ -1,0 +1,27 @@
+{
+	"name": "Fren 400",
+	"image": "ipfs://bafkreiaekfvizlelxn76lf33ijuy3ndtznu66mzt7u5fq3gavsxsxabzyu",
+	"external_url": "https://cryptofrens.xyz/fren/400",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Caesar"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Caesar’s Crown"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Highfive"
+		}
+	]
+}

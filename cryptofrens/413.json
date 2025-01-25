@@ -1,0 +1,23 @@
+{
+	"name": "Fren 413",
+	"image": "ipfs://bafkreiawcepjvlueyr75okv4ybj4vripfuejblep2exop3qyzphwuz2lle",
+	"external_url": "https://cryptofrens.xyz/fren/413",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Bikini"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Teacup"
+		}
+	]
+}

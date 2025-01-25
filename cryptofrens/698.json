@@ -1,0 +1,27 @@
+{
+	"name": "Fren 698",
+	"image": "ipfs://bafkreifejfp2agx2p4psqh2mgmpkqeigq6bbuefogfxqiki3mjpy7ebcs4",
+	"external_url": "https://cryptofrens.xyz/fren/698",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Pirate"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Bitcoin Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Drool"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Royal Guard Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Nah"
+		}
+	]
+}

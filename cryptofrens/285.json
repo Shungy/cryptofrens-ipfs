@@ -1,0 +1,23 @@
+{
+	"name": "Fren 285",
+	"image": "ipfs://bafkreiexm3wtmrlqaqxtie7dcfhijyjupfcwncuo4j2b5w7cim6wnda7he",
+	"external_url": "https://cryptofrens.xyz/fren/285",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Yellow Sweater"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Blue Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Stubble"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Antlers"
+		}
+	]
+}

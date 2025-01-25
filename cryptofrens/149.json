@@ -1,0 +1,23 @@
+{
+	"name": "Fren 149",
+	"image": "ipfs://bafkreicvbf4eobgczy2e7ueoayylcprcocshtwlj6ulmj77c5jnp3ponf4",
+	"external_url": "https://cryptofrens.xyz/fren/149",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Santa"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Flower Crown"
+		}
+	]
+}

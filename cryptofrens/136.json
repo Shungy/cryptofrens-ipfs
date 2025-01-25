@@ -1,0 +1,27 @@
+{
+	"name": "Fren 136",
+	"image": "ipfs://bafkreih37dpj6wss2agvvnnk3e55afx5utgb2if3244u7dr6rbss7xaoaq",
+	"external_url": "https://cryptofrens.xyz/fren/136",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Leaf Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "LINK Cap"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Handwave"
+		}
+	]
+}

@@ -1,0 +1,23 @@
+{
+	"name": "Fren 630",
+	"image": "ipfs://bafkreigyuwhq6pc2wmkztupgmni37ms6vpet4p2ukfhoiq4nsgz2hoeqoe",
+	"external_url": "https://cryptofrens.xyz/fren/630",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Maroon Business Suit"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Shocked"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Squirrel"
+		}
+	]
+}

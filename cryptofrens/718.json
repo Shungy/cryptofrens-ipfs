@@ -1,0 +1,27 @@
+{
+	"name": "Fren 718",
+	"image": "ipfs://bafkreidngqbfod4t33wcyozfb3d2z2xtgdv5sy5ks5gbz6l2zwk5xxjjei",
+	"external_url": "https://cryptofrens.xyz/fren/718",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Delinquent"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Rolled Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Vampire Teeth"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Scooter Helmet"
+		},
+		{
+			"trait_type": "Face",
+			"value": "Clown Nose"
+		}
+	]
+}

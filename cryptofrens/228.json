@@ -1,0 +1,23 @@
+{
+	"name": "Fren 228",
+	"image": "ipfs://bafkreidyudqeohinsw7qotfflrrhqn3f24ydqndyw6k7gjy52parknvodi",
+	"external_url": "https://cryptofrens.xyz/fren/228",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Rock Hand"
+		}
+	]
+}

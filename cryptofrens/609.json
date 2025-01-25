@@ -1,0 +1,27 @@
+{
+	"name": "Fren 609",
+	"image": "ipfs://bafkreihc456cjug2my3tr7n7p2lf7vtlbczrbpbxqulstzdxsx6vgejdne",
+	"external_url": "https://cryptofrens.xyz/fren/609",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Witch"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sinister Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Headset"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Witch Broom"
+		}
+	]
+}

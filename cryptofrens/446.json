@@ -1,0 +1,23 @@
+{
+	"name": "Fren 446",
+	"image": "ipfs://bafkreihm6v5y72cwml2a2kcufwapros7xb4eefsf4av5ztsgc5yqe45mfa",
+	"external_url": "https://cryptofrens.xyz/fren/446",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Caesar’s Crown"
+		}
+	]
+}

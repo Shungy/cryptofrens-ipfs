@@ -1,0 +1,27 @@
+{
+	"name": "Fren 99",
+	"image": "ipfs://bafkreifvzr7uaoean644u5vkzucapk2mspk7zuztlew57v4iq4j5n6m5l4",
+	"external_url": "https://cryptofrens.xyz/fren/99",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Caesar"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sidelook Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Restrained Anger"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Arrow Through Apple"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Highfive"
+		}
+	]
+}

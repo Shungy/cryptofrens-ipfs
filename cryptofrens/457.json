@@ -1,0 +1,23 @@
+{
+	"name": "Fren 457",
+	"image": "ipfs://bafkreiherbuhskttd6mydt5o4dcyfdgwm6h3ei5hq7dlaoqwvtfs4iqqg4",
+	"external_url": "https://cryptofrens.xyz/fren/457",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Yellow Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sad Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Fist"
+		}
+	]
+}

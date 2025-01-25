@@ -1,0 +1,23 @@
+{
+	"name": "Fren 565",
+	"image": "ipfs://bafkreid5jmu3f44s57oqma35morfjd6lgfpepo7g4wltmgwyjvqrcvu6au",
+	"external_url": "https://cryptofrens.xyz/fren/565",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Sweater"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Bitcoin Eyes"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Silly"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Graduate Cap"
+		}
+	]
+}

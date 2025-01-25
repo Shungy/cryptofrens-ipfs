@@ -1,0 +1,23 @@
+{
+	"name": "Fren 320",
+	"image": "ipfs://bafkreih77kp2ztgzgcyd5kmbthcjmtb4iv3gefhmscjrgvvnyi6hkrleze",
+	"external_url": "https://cryptofrens.xyz/fren/320",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Drunkard Sailor"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Lizard Purple"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Sad"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Dreadlocks"
+		}
+	]
+}

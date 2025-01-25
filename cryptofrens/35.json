@@ -1,0 +1,23 @@
+{
+	"name": "Fren 35",
+	"image": "ipfs://bafkreidewoqccke4rjn7jqbzdvd7mswwowc7wvkolwlo7olky6pwkbjj44",
+	"external_url": "https://cryptofrens.xyz/fren/35",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Surprised"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Thick Moustache"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Head Gash"
+		}
+	]
+}

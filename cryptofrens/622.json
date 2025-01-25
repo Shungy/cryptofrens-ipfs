@@ -1,0 +1,23 @@
+{
+	"name": "Fren 622",
+	"image": "ipfs://bafkreifnyqhn3axww6yrxivphbne4yubo6hukzpc7v5uza4jwuaz53tf64",
+	"external_url": "https://cryptofrens.xyz/fren/622",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Indian"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sinister Squint"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Neutral"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Fancy Blonde Hair"
+		}
+	]
+}

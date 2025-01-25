@@ -1,0 +1,23 @@
+{
+	"name": "Fren 606",
+	"image": "ipfs://bafkreihn62fgwk3iybckgsrgmamaeepqlbiuke3yq66jjms7dqqj7wv7cy",
+	"external_url": "https://cryptofrens.xyz/fren/606",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Coated Gym Rat"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Closed"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Happy"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Royal Guard Hat"
+		}
+	]
+}

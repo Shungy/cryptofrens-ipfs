@@ -1,0 +1,27 @@
+{
+	"name": "Fren 78",
+	"image": "ipfs://bafkreiboadshz5dpd5dsvvulwlfmrkc2qegxopsljebly7pc3yny4natfe",
+	"external_url": "https://cryptofrens.xyz/fren/78",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Blue Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Sad Crying"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Tongue Out"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Rice Hat"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Microphone"
+		}
+	]
+}

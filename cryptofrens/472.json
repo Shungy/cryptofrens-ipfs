@@ -1,0 +1,23 @@
+{
+	"name": "Fren 472",
+	"image": "ipfs://bafkreiac6rqp227hg3irrqb7jhdvckzam62t35jpq4lpavastzfrrkvdwi",
+	"external_url": "https://cryptofrens.xyz/fren/472",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Ruffian"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Shocked"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Round Fedora"
+		}
+	]
+}

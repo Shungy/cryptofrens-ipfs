@@ -1,0 +1,27 @@
+{
+	"name": "Fren 233",
+	"image": "ipfs://bafkreifpdzud5i22q3pfoh4ksovg6u6wnrd24ehf3joyjgilnsefl6j5wy",
+	"external_url": "https://cryptofrens.xyz/fren/233",
+	"attributes": [
+		{
+			"trait_type": "Body",
+			"value": "Red Shirt"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Ahegao"
+		},
+		{
+			"trait_type": "Mouth",
+			"value": "Smile"
+		},
+		{
+			"trait_type": "Head",
+			"value": "Spiky Hair"
+		},
+		{
+			"trait_type": "Hand",
+			"value": "Handwave"
+		}
+	]
+}
