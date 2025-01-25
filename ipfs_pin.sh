@@ -24,7 +24,7 @@ ipfs add --cid-version=1 --hash=sha2-256 --pin=true --progress=true --silent=tru
 
 project=dancingfrens
 
-printf 'Pinning the metadata files with root dir for %s project: ' "$project"
+printf 'Pinning the metadata files with root dir for %s project:\n' "$project"
 ipfs add --cid-version=1 --wrap-with-directory --hash=sha2-256 --pin=true --progress=true --silent=true -- "$project"/*.json
 
 printf 'Pinning the image files for %s project:\n' "$project"
@@ -32,7 +32,12 @@ ipfs add --cid-version=1 --hash=sha2-256 --pin=true --progress=true --silent=tru
 
 project=winterwitches
 
-printf 'Pinning everything for for %s project: ' "$project"
-ipfs dag import --pin-roots=true --stats --allow-big-block=true -- "$project".car
+printf 'Pinning everything for for %s project:\n' "$project"
+ipfs dag import --pin-roots=true --allow-big-block=true -- "$project".car
+
+project=took
+
+printf 'Pinning everything for for %s project:\n' "$project"
+ipfs add --cid-version=1 --hash=sha2-256 --pin=true --progress=true --silent=true -- "$project"/*.json "$project"/*.png
 
 printf 'Everything is pinned successfully!\n'
