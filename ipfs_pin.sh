@@ -30,4 +30,9 @@ ipfs add --cid-version=1 --wrap-with-directory --hash=sha2-256 --pin=true --prog
 printf 'Pinning the image files for %s project:\n' "$project"
 ipfs add --cid-version=1 --hash=sha2-256 --pin=true --progress=true --silent=true -- "$project"/*.gif
 
+project=winterwitches
+
+printf 'Pinning everything for for %s project: ' "$project"
+ipfs dag import --pin-roots=true --stats --allow-big-block=true -- "$project".car
+
 printf 'Everything is pinned successfully!\n'
