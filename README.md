@@ -36,7 +36,7 @@ ipfs dag import --stats --pin-roots=true -- cars/*
 - Images: `ipfs://bafybeibx3g6xpi6c3vosj6h6wgb6eekulbqwxrqytgv2asyptlneu6okfi`
 
 ### MugFrens
-- Contract: `0xfDB6b1B94f8A3bDFA5b1a6cf9FFC3c7872Ac6E57`
+- Contract: `avax:0xfDB6b1B94f8A3bDFA5b1a6cf9FFC3c7872Ac6E57`
 - Metadata: `ipfs://bafkreiebowuoukglxgqfqeezxl5lk2ral3n6jfedjryyd2slgq2frj6sdi`
 
 ### WinterWitches
