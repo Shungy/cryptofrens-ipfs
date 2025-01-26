@@ -31,7 +31,7 @@ ipfs dag import --stats --pin-roots=true -- cars/*
 - Contract: `avax:0xDB423200Eb9c6DDEf6F854eaBD685260fB0B9741`
 - Metadata: `ipfs://bafybeic4j6wjqvih5b7usnv5qhfptuq24besshmwy437yuahmc4fr66gqe`
 
-### Tartans
+### ThisTartanDoesNotExist
 - Contract: `avax:0x07bd0D76347BA943D162f278DdFCb844C359b20d`
 - Images: `ipfs://bafybeibx3g6xpi6c3vosj6h6wgb6eekulbqwxrqytgv2asyptlneu6okfi`
 
