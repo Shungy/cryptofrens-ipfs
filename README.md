@@ -46,3 +46,7 @@ ipfs dag import --stats --pin-roots=true -- cars/*
 ### Cryptookurs
 - Contract: `avax:0x29548296Bbf189cB69c4BE8E81112E3625e141eA`
 - Combined: `ipfs://bafybeiejrwhnggmro4xcvwcou32uhld3qrbwwo3fzz6mkpyclqp3gj5ere`
+
+### TinyHuskies
+- Contract: `avax:0xf1B5317b459f53F596457Ad0A3ae8054b60ab93f`
+- Metadata: `ipfs://bafybeifphjxhjoqsqlhvbaxdbd55hx5zxflrqkbih2tlz7czg2f2twqscy`
